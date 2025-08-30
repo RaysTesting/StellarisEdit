@@ -1,0 +1,10 @@
+name: StellarisEdit
+version: 1.0.0
+main: com.stellarisedit.StellarisEdit
+api-version: 1.20
+description: A performance friendly world editor with multiple editing tools
+commands:
+  se:
+    description: Primary command for StellarisEdit
+    usage: /se <subcommand>
+    aliases: [stellarisedit, se]
