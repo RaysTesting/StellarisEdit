@@ -1,0 +1,5 @@
+# Placeholder configuration file for StellarisEdit.  You can add plugin
+# specific configuration here.  At present no configurable options are
+# required for basic operation.
+
+undo-limit: 20  # Maximum number of operations stored in the undo history per player
